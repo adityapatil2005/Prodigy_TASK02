@@ -1,7 +1,9 @@
 # PRODIGY_DS_02: Titanic Dataset - Exploratory Data Analysis
 
 ## 🚢 Project Overview
-Comprehensive exploratory data analysis of the historic Titanic dataset to uncover patterns and factors affecting passenger survival during the tragic 1912 disaster.
+This project presents a detailed and comprehensive Exploratory Data Analysis (EDA) of the historic Titanic dataset, aiming to uncover meaningful insights and patterns that influenced passenger survival during the tragic sinking of the RMS Titanic in 1912.
+
+The Titanic disaster remains one of the most well-known maritime tragedies in history, and this dataset provides a valuable opportunity to explore how social, economic, and demographic factors played a crucial role in determining survival outcomes. Through systematic data exploration and visualization, this analysis transforms raw historical data into actionable insights.
 
 ## 📊 Dataset Information
 - **Source**: Prodigy InfoTech / Kaggle Titanic Dataset
@@ -148,14 +150,14 @@ pip install pandas==2.0.3 numpy==1.24.3 matplotlib==3.7.2 seaborn==0.12.2 jupyte
 
 
 # 1. Clone repository
-git clone 
+git clone https://github.com/adityapatil2005/Prodigy_TASK02/tree/main
 cd PRODIGY_DS_02
 
 # 2. Launch Jupyter
 jupyter notebook
 
 # 3. Open notebook
-
+Task_ap2-checkpoint
 
 # 4. Run all cells (Ctrl+F9) - ~5 minutes execution
 

@@ -118,16 +118,12 @@ Created 6 new predictive features:
 | `vis7_gender_class.png` | Gender+Class interaction | F1st=97%, M3rd=13% |
 
 ### 🎯 Top Insights Showcase
-| **Gender + Class** | **Correlation Heatmap** | **Gender Disparity** |
-|--------------------|-------------------------|----------------------|
-
-| **Family Dynamics** | **Class Gradient** | **Survival Baseline** |
-|---------------------|--------------------|----------------------|
-
-### 📊 Overall Survival Baseline
-<div style="text-align: center;">
-    ![38% Survival](https://github.com/rushikesh7325-tech/PRODIGY_DS_02/raw/main/visualizations/vis1_survival.png "342/891 survived")
-</div>
+SURVIVAL- <img width="4202" height="1773" alt="vis1_survival" src="https://github.com/user-attachments/assets/ad6d81dd-e7f2-441c-a155-0974cd8ef986" />
+CLASS GRADIENT -<img width="2984" height="2107" alt="vis3_class" src="https://github.com/user-attachments/assets/a4a8f33d-5733-4161-b7be-fa0a58090c2c" />
+FAMILY -<img width="2984" height="1649" alt="vis5_family" src="https://github.com/user-attachments/assets/8f7dc98c-a805-46fe-a6f4-0e53cd2d6d07" />
+GENDER DISPARITY -<img width="2984" height="2105" alt="vis2_gender" src="https://github.com/user-attachments/assets/ed9206e5-282c-401b-9b4f-a1b4aeef374a" />
+GENDER+CLASS - <img width="3570" height="2370" alt="vis7_gender_class" src="https://github.com/user-attachments/assets/d3847dfe-12f3-40de-b7cd-3a43989cd9ea" />
+CORRELATION HEATMAP -<img width="2639" height="2369" alt="vis6_correlation" src="https://github.com/user-attachments/assets/cc1e379d-0878-48f4-a8d4-c3255da7ee1b" />
 
 
 

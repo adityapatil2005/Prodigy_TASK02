@@ -120,11 +120,9 @@ Created 6 new predictive features:
 ### 🎯 Top Insights Showcase
 | **Gender + Class** | **Correlation Heatmap** | **Gender Disparity** |
 |--------------------|-------------------------|----------------------|
-| ![F1st=97% vs M3rd=13%](https://github.com/rushikesh7325-tech/PRODIGY_DS_02/raw/main/visualizations/vis7_gender_class.png) | ![Has_Cabin +0.317](https://github.com/rushikesh7325-tech/PRODIGY_DS_02/raw/main/visualizations/vis6_correlation.png) | ![74%F vs 19%M](https://github.com/rushikesh7325-tech/PRODIGY_DS_02/raw/main/visualizations/vis2_gender.png) |
 
 | **Family Dynamics** | **Class Gradient** | **Survival Baseline** |
 |---------------------|--------------------|----------------------|
-| ![2-4 optimal](https://github.com/rushikesh7325-tech/PRODIGY_DS_02/raw/main/visualizations/vis5_family.png) | ![63%→47%→24%](https://github.com/rushikesh7325-tech/PRODIGY_DS_02/raw/main/visualizations/vis3_class.png) | ![38% Survival](https://github.com/rushikesh7325-tech/PRODIGY_DS_02/raw/main/visualizations/vis1_survival.png) |
 
 ### 📊 Overall Survival Baseline
 <div style="text-align: center;">
